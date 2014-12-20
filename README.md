@@ -6,7 +6,7 @@ A **simple**, **fast** JavaScript library to convert audio data to a wave file e
 ## Usage
 
 ```javascript
-var URI = HandWave(samples *[, options]*);
+var URI = HandWave(samples [, options]);
 ```
 
 `samples` is an array of the samples representing the audio data you want HandWave to encode. HandWave has some parameters that you can tweak by passing an `options` object, with 0 or more of these options:
