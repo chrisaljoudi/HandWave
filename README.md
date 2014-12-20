@@ -11,9 +11,9 @@ var URI = HandWave(samples [, options]);
 
 `samples` is an array of the samples representing the audio data you want HandWave to encode. HandWave has some parameters that you can tweak by passing an `options` object, with 0 or more of these options:
 
-* `sampleRate`: samples per second. **Defaults to 8000.**
-* `sampleSize`: number of bits per sample (8 or 16). **Defaults to 8.**
-* `channels`: number of audio channels (samples alternate). **Defaults to 1.**
+* `sampleRate`: samples per second. **Defaults to 8000Hz.**
+* `sampleSize`: number of bits per sample (8 or 16). **Defaults to 8 bits.**
+* `channels`: number of audio channels (samples alternate). **Defaults to 1 channel (mono).**
 
 Once you have the URI, you can just use it as a `src` to play it:
 
