@@ -29,7 +29,7 @@ Pull requests, issues, etc. are all welcome. Please enjoy HandWave.
 
 ## Who made this?
 
-WatchStop was written with care and love by [Chris](https://chrismatic.io/).
+HandWave was written with care and love by [Chris](https://chrismatic.io/).
 
 ## License
 
