@@ -1,7 +1,7 @@
 HandWave
 ========
 
-A **simple**, **fast** JavaScript library to convert audio data to a wave file encoded as a data URI string.
+A simple, fast JavaScript library to convert audio data to a wave file encoded as a data URI string.
 
 ## Usage
 
@@ -25,11 +25,13 @@ synthesized.play();
 
 ## Contribution
 
-Pull requests, issues, etc. are all welcome. Please enjoy HandWave.
+Pull requests, issues, etc. are all welcome.
 
 ## Who made this?
 
 HandWave was written with care and love by [Chris](https://chrismatic.io/).
+
+Please enjoy HandWave!
 
 ## License
 
