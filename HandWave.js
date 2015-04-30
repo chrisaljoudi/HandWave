@@ -1,3 +1,5 @@
+// HandWave.js - MIT Licensed
+// Chris Aljoudi (2015)
 (function() {
 var BASE64 = {
 	chrs: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
